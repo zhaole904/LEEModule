@@ -1,0 +1,26 @@
+{
+  "name": "ModuleName",
+  "version": "0.1.0",
+  "summary": "hgerhggjfgjdfgj",
+  "homepage": "https://github.com/zhaole904/LEEModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhaole904": "763815972@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zhaole904/LEEModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "subspecs": [
+    {
+      "name": "LEEsubspec",
+      "source_files": "ModuleName/Classes/**/*.{h,m}"
+    }
+  ]
+}

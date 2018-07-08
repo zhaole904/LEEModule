@@ -1,0 +1,18 @@
+PODS:
+  - ModuleName (0.1.0):
+    - ModuleName/LEEsubspec (= 0.1.0)
+  - ModuleName/LEEsubspec (0.1.0)
+
+DEPENDENCIES:
+  - ModuleName (from `../`)
+
+EXTERNAL SOURCES:
+  ModuleName:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ModuleName: 0ffdab70f8b64ab2cdb8edb60eaa608f8bf90af8
+
+PODFILE CHECKSUM: 77f9c607dc8ff13c59e910c78e3b74192fa4630b
+
+COCOAPODS: 1.5.0
