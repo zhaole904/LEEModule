@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ModuleName'
-  s.version          = '0.1.4'
+  s.version          = '0.1.5'
   s.summary          = 'hgerhggjfgjdfgj'
 
   s.homepage         = 'https://github.com/zhaole904/LEEModule'
